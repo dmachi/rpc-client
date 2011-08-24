@@ -11,6 +11,6 @@
 	"mappings": {
 		"promised-io": "http://github.com/kriszyp/promised-io/zipball/v0.2.3",
 		"commonjs-utils": "http://github.com/kriszyp/commonjs-utils/zipball/v0.2.2",
-		"xml2js": "jar:https://github.com/Leonidas-from-XIV/node-xml2js/zipball/master!/lib/"
+		"xml2js": "jar:https://github.com/dmachi/node-xml2js/zipball/master!/lib/"
 	}
 }
